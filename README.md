@@ -1,2 +1,2 @@
 # CSGO-ImGui
-uses imgui and injects dll into sgo and you can add to it and make cheats The code is From Cazz yt channel https://www.youtube.com/@cazz/videos 
+Basic ImGui DLL For CSGO you can add your own hacks, Code From Cazz https://www.youtube.com/@cazz/videos
